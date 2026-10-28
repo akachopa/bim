@@ -1,0 +1,16 @@
+.DS_Store
+.idea
+.vscode
+*.log
+.env
+backend/vendor
+backend/node_modules
+backend/.env
+backend/storage/*.key
+frontend/node_modules
+frontend/dist
+ifc-service/.venv
+ifc-service/__pycache__
+**/__pycache__/
+.compositions
+.cursor
